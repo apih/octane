@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.6.1...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.7.0...2.x)
+
+## [v2.7.0](https://github.com/laravel/octane/compare/v2.6.1...v2.7.0) - 2025-02-11
+
+* perf: improve performance with FrankenPHP by [@dunglas](https://github.com/dunglas) in https://github.com/laravel/octane/pull/991
+* Fix tests CI by [@sy-records](https://github.com/sy-records) in https://github.com/laravel/octane/pull/995
 
 ## [v2.6.1](https://github.com/laravel/octane/compare/v2.6.0...v2.6.1) - 2025-01-28
 
