@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.7.0...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.8.0...2.x)
+
+## [v2.8.0](https://github.com/laravel/octane/compare/v2.7.0...v2.8.0) - 2025-02-18
+
+* Simplify SwooleTable class structure and remove version checks by [@sy-records](https://github.com/sy-records) in https://github.com/laravel/octane/pull/1000
+* Support partitioned cookie by [@sy-records](https://github.com/sy-records) in https://github.com/laravel/octane/pull/999
 
 ## [v2.7.0](https://github.com/laravel/octane/compare/v2.6.1...v2.7.0) - 2025-02-11
 
