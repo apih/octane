@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.8.0...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.8.1...2.x)
+
+## [v2.8.1](https://github.com/laravel/octane/compare/v2.8.0...v2.8.1) - 2025-02-19
+
+* Supports Laravel 12 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/octane/pull/987
 
 ## [v2.8.0](https://github.com/laravel/octane/compare/v2.7.0...v2.8.0) - 2025-02-18
 
